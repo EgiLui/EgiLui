@@ -21,9 +21,9 @@
 
 ### :man_technologist: About Me :
 
-  I am a guy dreaming to become a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  I am a guy dreaming to become a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
-- :telescope: I’m self-learning as well as taking official courses for web development.
+- :telescope: I’m self-learning as well as taking official studies for software development.
 
 - :seedling: Exploring Technical Content Writing.
 
