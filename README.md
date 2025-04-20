@@ -16,12 +16,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/EgiLui/count.svg?"  />
-</div>
-
-###
-
 <p align="center">🔭 I’m currently working on my GitHub page.<br>🌱 I’m currently learning AI governance.</p>
 
 ###
