@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">💫 About Me:<br><br>🔭 I’m currently working on my GitHub page.<br>🌱 I’m currently learning AI governance.</p>
+<p align="center">🔭 I’m currently working on my GitHub page.<br>🌱 I’m currently learning AI governance.</p>
 
 ###
 
